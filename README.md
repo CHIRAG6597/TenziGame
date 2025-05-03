@@ -1,35 +1,39 @@
-# Tenzi Game 🎲
+# 🎲 Tenzies Dice Game
 
-A fun and interactive dice game built with React, where players race to get all their dice to show the same number.
+A fun and interactive Tenzies game built with React! Roll the dice, hold matching numbers, and win the game when all dice match.
 
-## 🔧 Tech Stack
-- React.js
-- JavaScript
-- HTML/CSS
-
-## ✨ Features
-- Roll dice and keep track of the ones that match
-- Speed-based gameplay
-- Responsive design for mobile and desktop
-
-## 🚀 How to Play
-1. Click "Roll Dice" to roll the dice 🎲
-2. Hold any dice you want to keep by clicking them
-3. Keep rolling until all dice match! 🎉
-4. Once all dice match, the game is won!
-
-## 📁 Folder Highlights
-- `App.js` – Main game container
-- `Dice.js` – Displays individual dice and their states
-
-## 🔗 Live Demo
-👉 [Click to try it](https://tenzie-dice-game-myreactapp-chirag.netlify.app)
+## 🚀 Live Demo
+🔗 [Play Now](https://tenzie-dice-game-myreactapp-chirag.netlify.app/)
 
 ## 📸 Screenshot
-<!-- You can upload a screenshot here later -->
 ![Tenzi Game Screenshot](Screenshot.png)
 ![Tenzi Game Screenshot](Screenshot1.png)
 
+## ⚙️ Tech Stack
+- React.js (useState, useEffect)
+- CSS (Responsive layout using Grid & Flexbox)
+- JavaScript
+
+## 🎮 Features
+- Roll dice with a click
+- Hold dice to lock value
+- Win detection when all dice are the same and held
+- Confetti celebration on win
+- Responsive UI
+
+## 🗂 Folder Structure
+- `App.js` - Main logic and rendering
+- `Die.js` - Reusable dice component
+- `index.css` - Styles
+
+## 🧠 Learning Highlights
+- React state and effects
+- Component design
+- Game logic implementation
+- Dynamic UI updates
+- Confetti animation
+
 ## 📬 Contact
 **H M Chirag**  
-📧 chiragshettyhm@gmail.com
+📧 chiragshettyhm@gmail.com  
+📍 Bengaluru, India
